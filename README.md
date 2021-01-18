@@ -10,7 +10,7 @@ This program should be able to record a sample of of a person talking, slightly 
 
 ## Steps
 
-- Use vosk module to parse recordings. (https://github.com/alphacep/vosk-api)
+- [done] Use vosk module to parse recordings. (https://github.com/alphacep/vosk-api)
 - Use PyDictionary module to replace one word with a synonym an arbitrary number of times.
 - Find some way of converting text to speech that doesn't sound terrible.
 
